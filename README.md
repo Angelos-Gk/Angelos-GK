@@ -13,16 +13,19 @@
     </a>
 </p>
 
+---
 ### Languages
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r&logoColor=blue&labelColor=black)](https://github.com/Angelos-GK)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Angelos-GK)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Angelos-GK)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Angelos-GK)
 
+---
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Angelos-GK)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Angelos-GK)
 
+---
 ### Bioinformatics tools
 [![samtools](https://img.shields.io/badge/samtools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![FastQC](https://img.shields.io/badge/FastQC-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
@@ -38,6 +41,7 @@
 [![GATK](https://img.shields.io/badge/GATK-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Picard](https://img.shields.io/badge/Picard-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
+---
 ### Github stats
 <a href="https://github.com/Angelos-GK/Angelos-GK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-GK&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -46,6 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Angelos-GK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Angelos' GitHub Stats" />
 </a>
 
+---
 <details>
 <p align="center">
   <a href="https://github.com/Angelos-GK">
