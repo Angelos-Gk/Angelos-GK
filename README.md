@@ -15,7 +15,7 @@
 </p>
 
 ### Languages
-[![Static Badge](https://img.shields.io/badge/R-black?style=for-the-badge%26logo&logo=r)](https://github.com/Angelos-GK)
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r&logoColor=blue&labelColor=black)](https://github.com/Angelos-GK)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Angelos-GK)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Angelos-GK)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Angelos-GK)
@@ -23,6 +23,25 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Angelos-GK)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Angelos-GK)
+
+### Bioinformatics tools
+[![samtools](https://img.shields.io/badge/samtools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![FastQC](https://img.shields.io/badge/FastQC-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![MultiQC](https://img.shields.io/badge/MultiQC-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![trimmomatic](https://img.shields.io/badge/trimmomatic-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![cutadapt](https://img.shields.io/badge/cutadapt-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![hisat2](https://img.shields.io/badge/hisat2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![bwa](https://img.shields.io/badge/bwa-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![bamtools](https://img.shields.io/badge/bamtools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![vcftools](https://img.shields.io/badge/vcftools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![varscan](https://img.shields.io/badge/varscan-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![featureCounts](https://img.shields.io/badge/featureCounts-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![GATK](https://img.shields.io/badge/GATK-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![Picard](https://img.shields.io/badge/Picard-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+
+
+[![Angelos-GK GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelos-GK&show_icons=true&theme=transparent)](https://github.com/Angelos-GK/github-readme-stats)
+
 
 <details>
 <p align="center">
@@ -46,6 +65,7 @@
     <img src="https://komarev.com/ghpvc/?username=Angelos-GK&color=blue&style=flat)" />
   </a>
 </p>
+
 <!--
 
 - 🔭 I’m currently working on ...
