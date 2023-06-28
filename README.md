@@ -19,7 +19,7 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 </p>
 
 ---
-### Toolbox
+### <img src="https://cdn-icons-png.flaticon.com/128/1815/1815759.png" alt="bio logo" width="30" height="30" /> Toolbox  
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite logo" width="50" height="50" /> <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" alt="sqlite logo" width="50" height="50" />
 
@@ -30,12 +30,12 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Angelos-GK)
 -->
 ---
-### OS
+### <img src="https://cdn-icons-png.flaticon.com/128/4429/4429903.png" alt="bio logo" width="30" height="30" /> OS 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Angelos-GK)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Angelos-GK)
 
 ---
-### Bioinformatics tools
+### <img src="https://cdn-icons-png.flaticon.com/128/3829/3829976.png" alt="bio logo" width="30" height="30" />  Bioinformatics tools  
 [![samtools](https://img.shields.io/badge/samtools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![FastQC](https://img.shields.io/badge/FastQC-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![MultiQC](https://img.shields.io/badge/MultiQC-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
@@ -58,7 +58,8 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 [![IGV](https://img.shields.io/badge/IGV-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
 ---
-### Github stats
+### <img align="left" src="https://cdn-icons-png.flaticon.com/128/921/921591.png" alt="bio logo" width="30" height="30" /> Github stats 
+
 <a href="https://github.com/Angelos-GK/Angelos-GK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-GK&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
