@@ -2,7 +2,7 @@
 <p align="center">
     <b>Welcome to my Github profile!</b><br><br>
     <i>
-        I'm Angelos.<br>
+        I'm Angelos Galanopoulos. <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
         Currently finishing my MSc in Applied Bioinformatics.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/angelos-galanopoulos">
@@ -38,9 +38,13 @@
 [![GATK](https://img.shields.io/badge/GATK-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Picard](https://img.shields.io/badge/Picard-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
-
-[![Angelos-GK GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelos-GK&show_icons=true&theme=transparent)](https://github.com/Angelos-GK/github-readme-stats)
-
+### Github stats
+<a href="https://github.com/Angelos-GK/Angelos-GK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-GK&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Angelos-GK/Angelos-GK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Angelos-GK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Angelos' GitHub Stats" />
+</a>
 
 <details>
 <p align="center">
