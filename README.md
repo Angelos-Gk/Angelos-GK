@@ -40,6 +40,13 @@
 [![featureCounts](https://img.shields.io/badge/featureCounts-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![GATK](https://img.shields.io/badge/GATK-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Picard](https://img.shields.io/badge/Picard-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![Kraken2](https://img.shields.io/badge/Kraken2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![krakentools](https://img.shields.io/badge/krakentools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![krona](https://img.shields.io/badge/krona-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![Snakemake](https://img.shields.io/badge/Snakemake-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![Bioconductor](https://img.shields.io/badge/Bioconductor-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![Biopython](https://img.shields.io/badge/Biopython-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![IGV](https://img.shields.io/badge/IGV-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
 ---
 ### Github stats
