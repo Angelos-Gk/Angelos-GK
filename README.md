@@ -26,7 +26,7 @@
 <details>
 <p align="center">
   <a href="https://github.com/Angelos-GK">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelos-GK&theme=transparent" />
   </a>
   <a href="https://github.com/Angelos-GK">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelos-GK&hide_border=true&card_width=338&theme=transparent" />
