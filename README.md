@@ -1,9 +1,14 @@
 
-<p align="center">
+<p align="justify">
     <b>Welcome to my Github profile!</b><br><br>
-    <i>
         I'm Angelos Galanopoulos. <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
-        Currently finishing my MSc in Applied Bioinformatics.<br>
+    <br>
+    <i>
+        I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
+programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
+International Hellenic University (IHU). Currently, I am focusing on bioinformatic analysis of 
+differential gene expression using RNAseq data (either single cell or bulk) while exploring many other 
+bioinformatics concepts. Mainly using R, Python and Bash.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/angelos-galanopoulos">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
