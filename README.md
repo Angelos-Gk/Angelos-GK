@@ -10,6 +10,8 @@ International Hellenic University (IHU). Currently, I am focusing on bioinformat
 differential gene expression using RNAseq data (either single cell or bulk) while exploring many other 
 bioinformatics concepts. Mainly using R, Python and Bash.<br>
     </i><br>
+ </p>
+ <p align="center">
     <a href="https://www.linkedin.com/in/angelos-galanopoulos">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
