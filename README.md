@@ -1,5 +1,5 @@
 
-<p align="justify">
+<p align="center">
     <b>Welcome to my Github profile!</b><br><br>
         I'm Angelos Galanopoulos. <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
     <br>
