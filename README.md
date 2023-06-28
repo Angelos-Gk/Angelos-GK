@@ -15,6 +15,7 @@
 </p>
 
 ### Languages
+[![Static Badge](https://img.shields.io/badge/R-blue?style=for-the-badge%26logo&logo=r)](https://github.com/Angelos-GK)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Angelos-GK)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Angelos-GK)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Angelos-GK)
