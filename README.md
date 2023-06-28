@@ -20,11 +20,15 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 
 ---
 ### Languages
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite logo" width="50" height="50" />
+
+<!--
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r&logoColor=blue&labelColor=black)](https://github.com/Angelos-GK)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Angelos-GK)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Angelos-GK)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Angelos-GK)
-
+-->
 ---
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Angelos-GK)
