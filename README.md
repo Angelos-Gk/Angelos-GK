@@ -2,8 +2,9 @@
 
 <p align="center">
     <br>
+    <i>
         I'm Angelos Galanopoulos. <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
-    <br>
+    </i><br>
     <i>
         I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
 programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
