@@ -1,4 +1,12 @@
+<!--
+=======================HEADER=======================
+-->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+
+<!--
+=======================INTRODUCTION=======================
+-->
 
 <p align="center">
     <br>
@@ -21,6 +29,10 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
+
+<!--
+=======================PROGRAMMING=======================
+-->
 
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/128/2463/2463510.png" alt="bio logo" width="30" height="30" /> Programming
@@ -46,6 +58,11 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Angelos-GK)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Angelos-GK)
 -->
+
+<!--
+=======================BIOINFORMATICS=======================
+-->
+
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/128/3829/3829976.png" alt="bio logo" width="30" height="30" />  Bioinformatics tools  
 [![samtools](https://img.shields.io/badge/samtools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
@@ -68,6 +85,10 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 [![Bioconductor](https://img.shields.io/badge/Bioconductor-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Biopython](https://img.shields.io/badge/Biopython-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![IGV](https://img.shields.io/badge/IGV-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+
+<!--
+=======================STATISTICS=======================
+-->
 
 ---
 ### <img align="left" src="https://cdn-icons-png.flaticon.com/128/921/921591.png" alt="bio logo" width="30" height="30" /> Github stats 
@@ -102,5 +123,9 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
     <img src="https://komarev.com/ghpvc/?username=Angelos-GK&color=blue&style=flat)" />
   </a>
 </p>
+
+<!--
+=======================FOOTER=======================
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
