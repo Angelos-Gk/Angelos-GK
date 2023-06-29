@@ -3,7 +3,7 @@
 <p align="center">
     <br>
     <i>
-        I'm Angelos Galanopoulos. <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
+       Welcome to my Github profile, I'm Angelos Galanopoulos! <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
     </i><br>
     <i>
         I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
