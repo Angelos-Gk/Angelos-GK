@@ -78,6 +78,7 @@ bioinformatics concepts. Mainly using R, Python and Bash.<br>
 [![varscan](https://img.shields.io/badge/varscan-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![featureCounts](https://img.shields.io/badge/featureCounts-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![GATK](https://img.shields.io/badge/GATK-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![HOMER](https://img.shields.io/badge/HOMER-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Picard](https://img.shields.io/badge/Picard-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Kraken2](https://img.shields.io/badge/Kraken2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![krakentools](https://img.shields.io/badge/krakentools-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
