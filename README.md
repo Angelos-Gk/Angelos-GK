@@ -14,11 +14,7 @@
        Welcome to my Github profile, I'm Angelos Galanopoulos! <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px"> <br>
     </i><br>
     <i>
-        I am an MSc student from Thessaloniki, Greece, following the “Applied Bioinformatics” MSc 
-programme offered by the Aristotle University of Thessaloniki (AUTH) in collaboration with the 
-International Hellenic University (IHU). Currently, I am focusing on bioinformatic analysis of 
-differential gene expression using RNAseq data (either single cell or bulk) while exploring many other 
-bioinformatics concepts. Mainly using R, Python and Bash.<br>
+        I've embarked on an exciting journey as a PhD student in Single Cell Genomics at Charité – Universitätsmedizin Berlin, supported by the German Cancer Aid and Else Kröner-Fresenius-Stiftung foundations. With a recently completed MSc in "Applied Bioinformatics" from Aristotle University of Thessaloniki, Greece, I've honed my skills in analyzing complex biological data, particularly focusing on single cell and bulk RNAseq datasets using tools like R, Python, and Bash scripting. My passion lies in unraveling the mysteries of cancer biology in the context of immunotherapy and blood malignancies. I'm enthusiastic about bridging the gap between wet lab experiments and computational analysis, delving into single cell immunogenomics data, and developing innovative analytical approaches to drive impactful research outcomes. Currently based in Berlin, I'm thrilled to be part of the vibrant research community at the Penter lab and eager to collaborate with fellow researchers to advance our understanding of cancer and pioneer new therapeutic strategies.<br>
     </i><br>
  </p>
  <p align="center">
