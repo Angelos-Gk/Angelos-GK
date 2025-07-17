@@ -83,6 +83,7 @@
 [![Bioconductor](https://img.shields.io/badge/Bioconductor-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![Biopython](https://img.shields.io/badge/Biopython-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![IGV](https://img.shields.io/badge/IGV-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
+[![Mutect2](https://img.shields.io/badge/Mutect2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
 <!--
 =======================STATISTICS=======================
