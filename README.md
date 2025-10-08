@@ -86,37 +86,6 @@
 [![Mutect2](https://img.shields.io/badge/Mutect2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 [![strelka2](https://img.shields.io/badge/strelka2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
-<!--
-=======================STATISTICS=======================
--->
-
----
-### <img align="left" src="https://cdn-icons-png.flaticon.com/128/921/921591.png" alt="bio logo" width="30" height="30" /> Github stats 
-
-<a href="https://github.com/Angelos-GK/Angelos-GK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-GK&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Angelos-GK/Angelos-GK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Angelos-GK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Angelos' GitHub Stats" />
-</a>
-
----
-<details>
-<p align="center">
-  <a href="https://github.com/Angelos-GK">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelos-GK&theme=transparent" />
-  </a>
-  <a href="https://github.com/Angelos-GK">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angelos-GK&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Angelos-GK">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angelos-GK&theme=transparent" />
-  </a>
-  <a href="https://github.com/Angelos-GK">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelos-GK&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
 
 <p align="center">
   <a href="https://github.com/Angelos-GK">
