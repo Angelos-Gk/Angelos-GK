@@ -84,12 +84,6 @@
 [![strelka2](https://img.shields.io/badge/strelka2-black?style=flat&logoColor=black)](https://github.com/Angelos-GK)
 
 
-<p align="center">
-  <a href="https://github.com/Angelos-GK">
-    <img src="https://komarev.com/ghpvc/?username=Angelos-GK&color=blue&style=flat)" />
-  </a>
-</p>
-
 <!--
 =======================FOOTER=======================
 -->
